@@ -45,11 +45,11 @@ console.log(manager.getProducts());
 
 try {
     manager.addProduct(
-        "producto prueba",
-        "Este es un producto prueba",
+        "producto",
+        "Este es un producto",
         200,
-        "Sin imagen",
-        "abc123",
+        "sin imagen",
+        "holasoyuncodigo",
         25
     );
     console.log("Producto agregado satisfactoriamente.");
@@ -63,11 +63,11 @@ console.log(manager.getProducts());
 
 try {
     manager.addProduct(
-        "producto prueba",
-        "Este es un producto prueba",
+        "producto2",
+        "Este es un producto2",
         200,
-        "Sin imagen",
-        "abc123",
+        "sin imagen",
+        "holasoyuncodigo2",
         25
     );
     console.log("Producto agregado satisfactoriamente.");
